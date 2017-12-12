@@ -1,0 +1,17 @@
+body{
+    font-family: 'Patua One', cursive;
+    background: #d5dee5;
+    color: rgb(32, 32, 32);
+}
+.jumbotron{
+ margin-top: 10px;   
+ margin-bottom:20px;
+ text-align: center;
+ background: white;
+}
+.input-group{
+    margin:10px;
+}
+#submit{
+    margin: 10px;
+}
